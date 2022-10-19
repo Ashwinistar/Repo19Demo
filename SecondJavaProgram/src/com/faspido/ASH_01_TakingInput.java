@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class ASH_01_TakingInput {
     public static void main(String[] args) {
-        System.out.println("Taking Input From The User");
+        System.out.println("Taking Input From The Employee");
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter Number 1");
         int a=sc.nextInt();
